@@ -16,7 +16,7 @@ public class TestePato {
 		patolinho.voar();
 		patolinho.quack();
 		patolinho.nadar();
-		System.out.println("-----0-----0------");
+		System.out.println("----------------");
 		patolinao.display();
 		patolinao.quack();
 		patolinao.voar();
