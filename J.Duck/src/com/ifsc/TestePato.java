@@ -11,7 +11,7 @@ public class TestePato {
 
 		patolino.display();
 		patolino.nadar();
-		System.out.println("----------------");
+		System.out.println("----*-----*-------");
 		patolinho.display();
 		patolinho.voar();
 		patolinho.quack();
@@ -28,5 +28,4 @@ public class TestePato {
 		madeiro.display();
 		madeiro.nadar();
 	}
-
 }
