@@ -11,12 +11,12 @@ public class TestePato {
 
 		patolino.display();
 		patolino.nadar();
-		System.out.println("----*-----*-------");
+		System.out.println("----------------");
 		patolinho.display();
 		patolinho.voar();
 		patolinho.quack();
 		patolinho.nadar();
-		System.out.println("----------------");
+		System.out.println("-----0-----0------");
 		patolinao.display();
 		patolinao.quack();
 		patolinao.voar();
